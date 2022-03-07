@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.encrafted.plugin.spells.recognition.template"},{"l":"net.encrafted.plugin.spells.spells"},{"l":"net.encrafted.plugin.spells.spells.utils"}];updateSearchResults();

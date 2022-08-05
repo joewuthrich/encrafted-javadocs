@@ -1,3 +1,8 @@
+net.encrafted.plugin.players
 net.encrafted.plugin.spells.recognition.template
 net.encrafted.plugin.spells.spells
+net.encrafted.plugin.spells.spells.defensive.shields
+net.encrafted.plugin.spells.spells.offensive.projectiles.utils
 net.encrafted.plugin.spells.spells.utils
+net.encrafted.plugin.spells.spells.utils.damage
+net.encrafted.plugin.utils
